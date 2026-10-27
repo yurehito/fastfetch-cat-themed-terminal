@@ -1,7 +1,7 @@
 {
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
   "logo": {
-    "source": "~/.config/fastfetch/blac-meow-icon.png",
+    "source": "~/.config/fastfetch/black-meow-icon.png",
     "type": "auto",
     "height": 20,
     "padding": {
