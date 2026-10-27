@@ -212,8 +212,8 @@ Set your terminal palette to **Elemental** in your terminal profile settings.
 1️⃣️ Clone this repository:
 
 ```bash
-git clone https://github.com/yurehito/fastfetch-cat-theme-config.git
-cd fastfetch-cat-theme-config
+git clone https://github.com/yurehito/fastfetch-cat-themed-terminal.git
+cd fastfetch-cat-themed-terminal
 ```
 
 2️⃣️ Run the installer:
