@@ -1,0 +1,1 @@
+# fastfetch-cat-theme-config
