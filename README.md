@@ -1,6 +1,6 @@
 # Fastfetch Cat Themed Terminal ᓚᘏᗢ
 
-> A customized Fastfetch setup featuring a black cat logo, Zsh, Starship, and a transparent terminal.
+> A cool Fastfetch terminal featuring a custom logo, Zsh, Starship, and a transparent terminal.
 
 > [!IMPORTANT]
 > **A Nerd Font is required for the icons to display correctly.** This setup and installation guide are specifically designed for Fedora Workstation 44 with GNOME 50.6 and Wayland. Installation and configuration steps may differ on other systems.
