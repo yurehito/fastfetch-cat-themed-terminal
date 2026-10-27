@@ -13,15 +13,15 @@ if [ -f "$CONFIG_DIR/config.jsonc" ]; then
 fi
 
 # download the theme files
-curl -fL "$REPO/blac-meow-icon.png" \
-  -o "$CONFIG_DIR/blac-meow-icon.png"
+curl -fL "$REPO/black-meow-icon.png" \
+  -o "$CONFIG_DIR/black-meow-icon.png"
 
 curl -fL "$REPO/config.jsonc" \
   -o "$CONFIG_DIR/config.jsonc"
 
 # update the logo path to match the local config directory
-sed -i "s|~/.config/fastfetch/blac-meow-icon.png|$CONFIG_DIR/blac-meow-icon.png|g" \
+sed -i "s|~/.config/fastfetch/black-meow-icon.png|$CONFIG_DIR/black-meow-icon.png|g" \
   "$CONFIG_DIR/config.jsonc"
 
-echo "Fastfetch theme installed!"
-echo "Run: fastfetch"
+echo "fastfetch cat theme installed! ᓚᘏᗢ"
+echo "run: fastfetch"
