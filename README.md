@@ -2,13 +2,20 @@
 
 > A customized Fastfetch setup featuring a black cat logo, Zsh, Starship, and a transparent terminal.
 
-## 📸 Preview
+> [!IMPORTANT]
+> **A Nerd Font is required for the icons to display correctly.** This setup and installation guide are specifically designed for Fedora Workstation 44 with GNOME 50.6 and Wayland. Installation and configuration steps may differ on other systems.
+
+---
+
+### 📸 Preview
 
 ![Fastfetch Cat Theme Preview](https://raw.githubusercontent.com/yurehito/fastfetch-cat-theme-config/0bd9557213cddb4bf6a7bf1d2a6b904fbe2f4128/terminal-yurehito.png)
 
-## 🇫 Fedora Setup
+---
 
->  !imp `sed` and `curl` are usually preinstalled on Fedora. If missing, install them with:
+### 🇫 Fedora Setup
+
+> `sed` and `curl` are usually preinstalled on Fedora. If missing, install them with:
 
 ```bash
 sudo dnf install sed curl
@@ -58,9 +65,9 @@ Add the Flathub repository for Flatpak:
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```
 
-> !imp These steps configure Fedora repositories and Flatpak. They are system setup steps, not requirements specific to the Fastfetch theme.
+---
 
-## 📋 Requirements
+### 📋 Requirements
 
 - Fedora Linux
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
@@ -71,7 +78,9 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 - GNOME Ptyxis Terminal
 - `curl` and `sed`
 
-## 🎨️ Setup
+---
+
+### 🎨️ Setup
 
 1️⃣️ Install the font
 
@@ -194,7 +203,9 @@ Replace `<your-profile-identifier>` with your actual Ptyxis profile identifier.
 
 Set your terminal palette to **Elemental** in your terminal profile settings.
 
-## ⚙️ Install the Fastfetch theme
+---
+
+### ⚙️ Install the Fastfetch theme
 
 1️⃣️ Clone this repository:
 
@@ -216,9 +227,11 @@ zsh install.sh
 fastfetch
 ```
 
-> !imp **Your existing Fastfetch config is backed up to `~/.config/fastfetch/config.jsonc.backup` before being replaced.**
+> **Your existing Fastfetch config is backed up to `~/.config/fastfetch/config.jsonc.backup` before being replaced.**
 
-## 📁 Files
+---
+
+### 📁 Files
 
 - `config.jsonc` — Fastfetch configuration
 - `black-meow-icon.png` — Custom black cat logo
