@@ -11,7 +11,7 @@
 
 ### 📸 Preview
 
-![Fastfetch Cat Theme Preview](https://raw.githubusercontent.com/yurehito/fastfetch-cat-theme-config/0bd9557213cddb4bf6a7bf1d2a6b904fbe2f4128/terminal-yurehito.png)
+![Fastfetch Cat Theme Preview](https://raw.githubusercontent.com/yurehito/fastfetch-cat-themed-terminal/main/terminal-yurehito.png)
 
 ---
 
