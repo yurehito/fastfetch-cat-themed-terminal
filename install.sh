@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 set -euo pipefail
 
-REPO="https://raw.githubusercontent.com/yurehito/fastfetch-cat-theme-config/main"
+REPO="https://raw.githubusercontent.com/yurehito/fastfetch-cat-themed-terminal/main"
 CONFIG_DIR="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch"
 
 mkdir -p "$CONFIG_DIR"
