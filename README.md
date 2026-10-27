@@ -2,10 +2,10 @@
 
 > A customized Fastfetch setup featuring a black cat logo, Zsh, Starship, and a transparent terminal.
 
-[![Discord Support](https://img.shields.io/badge/Discord-Join%20for%20Support-5865F2?logo=discord&logoColor=white)](https://discord.gg/5WHZmsrrYA)
-
 > [!IMPORTANT]
 > **A Nerd Font is required for the icons to display correctly.** This setup and installation guide are specifically designed for Fedora Workstation 44 with GNOME 50.6 and Wayland. Installation and configuration steps may differ on other systems.
+
+[![Discord Support](https://img.shields.io/badge/Discord-Join%20for%20Support-5865F2?logo=discord&logoColor=white)](https://discord.gg/5WHZmsrrYA)
 
 ---
 
