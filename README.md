@@ -1,4 +1,4 @@
-# Fastfetch Cat Theme ᓚᘏᗢ
+# Fastfetch Cat Themed Terminal ᓚᘏᗢ
 
 > A customized Fastfetch setup featuring a black cat logo, Zsh, Starship, and a transparent terminal.
 
