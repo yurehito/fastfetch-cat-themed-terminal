@@ -66,6 +66,11 @@ Add the Flathub repository for Flatpak:
 ```bash
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```
+5️⃣ Download chafa
+
+```bash
+sudo dnf install chafa
+```
 
 ---
 
@@ -229,7 +234,7 @@ zsh install.sh
 fastfetch
 ```
 
-> Your existing Fastfetch config is backed up to `~/.config/fastfetch/config.jsonc.backup` before being replaced.
+> Your existing Fastfetch config is backed up to `~/.config/fastfetch/config.jsonc.backup` before being replaced. Also if the image dont work then install it manually from [here]() and replace it by running `nano ~/.config/fastfetch/config.jsonc` and changing the logo source to the file path
 
 ---
 
