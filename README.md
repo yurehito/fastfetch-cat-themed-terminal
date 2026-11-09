@@ -234,7 +234,7 @@ zsh install.sh
 fastfetch
 ```
 
-> Your existing Fastfetch config is backed up to `~/.config/fastfetch/config.jsonc.backup` before being replaced. Also if the image dont work then install it manually from [here]() and replace it by running `nano ~/.config/fastfetch/config.jsonc` and changing the logo source to the file path
+> Your existing Fastfetch config is backed up to `~/.config/fastfetch/config.jsonc.backup` before being replaced. Also if the image dont work then install it manually from [here](https://raw.githubusercontent.com/yurehito/fastfetch-cat-themed-terminal/refs/heads/main/black-meow-icon.png) and replace it by running `nano ~/.config/fastfetch/config.jsonc` and changing the logo source to the file path
 
 ---
 
